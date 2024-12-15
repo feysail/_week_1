@@ -1,0 +1,1 @@
+## This is week_1 challenge at KAIM AI training
